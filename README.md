@@ -8,6 +8,17 @@ In the "Guess What" application;</br>
 -If the advertisement is watched, the right is increased by one with the animation of gaining life.</br>
 -You can buy life from the market section through the play store.</br>
 -In-game music can be turned on or off in the settings section.</br>
+
+"Bil Bakalım" uygulamasında;</br>
+-Kullanıcı isim ve profil fotoğrafını değiştirebilir.</br>
+-Random sorulan soru için kelime tahminleri yapılabilir.</br>
+-Kelime tahminine yardımcı olunması için eğer hakkı var ise  harf talep edebilir.</br>
+-Hakkı bittikten sonra istatistik tablosundan kaç soru cevapladığını, kaç kelime bildiğini ve kaç yanlış tahminde bulunulduğu görülebilir.</br>
+-Can kazanmak için Google üzerinden tanımlanmış reklamlar izlenerek can kazanılabilir.</br>
+-Reklam izlendiği takdirde can kazanma animasyonu ile hak bir adet artıtılır.</br>
+-Market bölümünden play store aracılığı ile can satın alınabiliyor.</br>
+-Ayarlar bölümünden oyun içi müzik açılıp kapatılabilir.</br>
+
 </br>
 <img src="https://user-images.githubusercontent.com/77547205/152701318-ad6b5721-7de5-4f5b-b4f1-f941e01132ce.jpg" width="350">
 <img src="https://user-images.githubusercontent.com/77547205/152701449-c4bc6be3-142b-4e38-8c04-136c4b9d7373.jpg" width="350">
