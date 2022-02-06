@@ -16,7 +16,7 @@ In the "Guess What" application;</br>
 -Hakkı bittikten sonra istatistik tablosundan kaç soru cevapladığını, kaç kelime bildiğini ve kaç yanlış tahminde bulunulduğu görülebilir.</br>
 -Can kazanmak için Google üzerinden tanımlanmış reklamlar izlenerek can kazanılabilir.</br>
 -Reklam izlendiği takdirde can kazanma animasyonu ile hak bir adet artırılır.</br>
--Market bölümünden play store aracılığı ile can satın alınabiliyor.</br>
+-Market bölümünden play store aracılığı ile can satın alınabilir.</br>
 -Ayarlar bölümünden oyun içi müzik açılıp kapatılabilir.</br>
 
 </br>
