@@ -1,5 +1,13 @@
 # BilBakalim
-asjvbjnkamsllvlasövşalsv
+In the "Guess What" application;
+-User can change name and profile photo.
+-Word predictions can be made for a random question.
+-If he has the right, he can request letters to help with word prediction.
+-After the right is over, it can be seen how many questions he answered, how many words he knew and how many wrong guesses were made from the statistics table.
+-You can earn life by watching ads defined on Google to earn life.
+-If the advertisement is watched, the right is increased by one with the animation of gaining life.
+-You can buy life from the market section through the play store.
+-In-game music can be turned on or off in the settings section.</br>
 </br>
 <img src="https://user-images.githubusercontent.com/77547205/152701318-ad6b5721-7de5-4f5b-b4f1-f941e01132ce.jpg" width="350">
 <img src="https://user-images.githubusercontent.com/77547205/152701449-c4bc6be3-142b-4e38-8c04-136c4b9d7373.jpg" width="350">
